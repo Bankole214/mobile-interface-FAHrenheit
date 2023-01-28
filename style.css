@@ -173,6 +173,9 @@ i {
   /* img{
     display: none;
   } */
+  .pp{
+    margin-top: 40px;
+  }
   product-heading {
     font-size: 15px;
     text-align: center;
